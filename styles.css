@@ -1,0 +1,40 @@
+  .attribution {
+      display: flex;
+      width: 800px;
+      height: 500px;
+      font-size: 11px;
+      text-align: center;
+      background-color: hsl(212, 45%, 89%);
+      justify-content: center;
+
+      align-items: center;
+      position: absolute;
+      right: 22%;
+      bottom: 5%;
+      top: 9%;
+
+  }
+
+  .attribution a {
+      color: hsl(228, 45%, 44%);
+  }
+
+  .box {
+      width: 200px;
+      height: 330px;
+      background-color: white;
+      font-family: 'Outfit', cursive;
+      border-radius: 5%;
+
+
+  }
+
+  img {
+      border-radius: 8%;
+      padding-top: 10px;
+  }
+
+  p {
+      font-size: 10px;
+      font-weight: lighter;
+  }
